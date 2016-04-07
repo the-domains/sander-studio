@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Sander Studio]]></title>
         <description><![CDATA[Sander Studio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sander-studio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 03:19:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Apr 2016 03:38:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sander-studio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://cdn.shopify.com/s/files/1/0600/2781/t/5/assets/home-featured-promo-a.png?14922194199275605090">]]></description>
+            <link>https://thegrid.ai/sander-studio/5acf68d7-2f71-42c4-94fa-69b33952bc04/index.html</link>
+            <guid isPermaLink="false">5acf68d7-2f71-42c4-94fa-69b33952bc04</guid>
+            <pubDate>Thu, 07 Apr 2016 03:38:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1552301-6b7b-4376-a691-b6382c46cc18.jpg">]]></description>
-            <link>undefineddab8a9f5-fd74-43c4-afd4-ebc48a0ca678/index.html</link>
+            <link>https://thegrid.ai/sander-studio/dab8a9f5-fd74-43c4-afd4-ebc48a0ca678/index.html</link>
             <guid isPermaLink="false">dab8a9f5-fd74-43c4-afd4-ebc48a0ca678</guid>
             <pubDate>Thu, 07 Apr 2016 03:19:55 GMT</pubDate>
         </item>
