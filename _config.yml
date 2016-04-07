@@ -2,6 +2,7 @@ name: Sander Studio
 favicon: null
 layout_spectrum: 0.10775870992802083
 typography_spectrum: 0.07003801711834967
+title: Sander Studio
 cta:
   domain: null
   bucket: null
